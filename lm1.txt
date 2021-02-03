@@ -1,1 +1,2 @@
 Here a new file after a previous one mistakenly deleted
+Now there will not be any conflict
