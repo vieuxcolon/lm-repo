@@ -1,1 +1,2 @@
 I am testing git
+I have moved forward mit the artifactory and jenkins certificates
