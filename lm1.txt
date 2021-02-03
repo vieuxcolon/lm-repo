@@ -1,2 +1,3 @@
 I am testing git
 I have moved forward mit the artifactory and jenkins certificates
+Here are additions from localhost
